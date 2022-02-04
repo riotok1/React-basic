@@ -1,0 +1,3 @@
+// Creating a css file is as follows - " Header.module.css "
+// The import of the file is as follows - " import s from './MyPosts.module.css'; "
+// Using classes - " <header className={s.header}><header/> "
